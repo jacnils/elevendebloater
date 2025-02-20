@@ -85,12 +85,8 @@ echo :: Welcome ::
 echo ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 echo :: elevendebloater v1.0                                               ::
 echo ::                                                                    ::
-echo :: by speedie                                                         ::
-echo :: https://speedie.gq/projects/elevendebloater.php                    ::
-echo :: https://github.com/speediegq/elevendebloater                       ::
-echo ::                                                                    ::
-echo :: If you find this project useful, consider donating:                ::
-echo :: https://speedie.gq/donate.php                                      ::
+echo :: by Jacob Nilsson                                                   ::
+echo :: https://jacobnilsson.com                                           ::
 echo ::                                                                    ::
 echo :: Licensed under the GNU General Public License Version 3.0.         ::
 echo :: See LICENSE file for more information.                             ::
